@@ -1,10 +1,8 @@
 import React from "react";
 import Logo from "../Assets/logo.png";
-import { BsTwitter } from "react-icons/bs";
-import { SiLinkedin } from "react-icons/si";
-import { BsYoutube } from "react-icons/bs";
-import { FaFacebookF, FaWhatsapp } from "react-icons/fa";
-import { EmailOutlined, WhatsApp } from "@mui/icons-material";
+
+import {FaWhatsapp } from "react-icons/fa";
+import { EmailOutlined } from "@mui/icons-material";
 
 const Footer = () => {
   return (
