@@ -432,7 +432,11 @@ nav {
     font-size: 1rem;
   }
   .home-bannerImage-container {
-    max-width: 600px;
+    max-width: 300px;
+    display: none;
+  }
+  .home-image-section{
+    margin-top: -70px;
   }
 }
 @media (max-width: 800px) {
